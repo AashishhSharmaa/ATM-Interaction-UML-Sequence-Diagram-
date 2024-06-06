@@ -8,7 +8,7 @@ I Developed a UML Sequence Diagram for an interaction that occurs at an ATM, usi
 ## UML Sequence Diagram
 A UML Sequence Diagram is a type of diagram that shows how objects interact in a particular scenario of a use case. It focuses on the sequence of messages exchanged between objects and the order in which these interactions occur. In the context of an ATM interaction, the sequence diagram includes:
 
-![main uml](https://github.com/AashishhSharmaa/ATM-Interaction-UML-Sequence-Diagram-/assets/152653168/e769478c-ad85-492b-89e7-6ad3c6620af3)
+  ![main uml](https://github.com/AashishhSharmaa/ATM-Interaction-UML-Sequence-Diagram-/assets/152653168/e769478c-ad85-492b-89e7-6ad3c6620af3)
 
 1. **User Authentication**: The user inserts their card and enters their PIN.
 2. **Validation**: The ATM communicates with the bank’s server to validate the user’s credentials.
